@@ -15,13 +15,8 @@ params:
     - name: API
       description: The guts of the application.
       category: Uncategorized
-    - name: Media Proxy
-      description: >-
-        This is the service responsible for serving images, audio, and video. It
-        is reliant on our CDN.
-      category: Uncategorized
   dateFormat: 'January 2, 2006 at 3:04 PM'
-  brand: '#0a0c0f'
+  brand: '#fff'
   headerTextColor: white
   logo: /img/logo-cobrowser.png
   incidentPostsPerPage: 3
@@ -37,7 +32,6 @@ params:
     - name: North Coast
       description: The main servers are located here.
       closed: true
-    - name: East Coast
     - name: Uncategorized
       untitled: true
   description: >-
